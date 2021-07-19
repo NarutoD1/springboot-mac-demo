@@ -23,7 +23,6 @@ public class DemoApplication {
          * option + control + O 导入包去掉不用的包
          * option + shift + 方向键上/下 移动当前行到上一或下一行
          */
-        System.out.println();
     }
 
 }
