@@ -1,0 +1,9 @@
+server:
+  port: 8001
+
+map-config:
+  my-map1:
+    "one": 1
+    "two": 2
+    "three": 3
+    "four": 4
